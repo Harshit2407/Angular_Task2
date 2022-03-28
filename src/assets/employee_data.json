@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Harshit",
+        "salary": 80000,
+        "department": "Technology",
+        "city": "Gwalior",
+        "manager":"Chauhan"
+    },
+
+    {
+        "name": "Pranay",
+        "salary": 80000,
+        "department": "IT",
+        "city": "Delhi",
+        "manager":"Mahajan"
+    },
+
+    {
+        "name": "Rohit",
+        "salary": 75000,
+        "department": "Sales",
+        "city": "Jaipur",
+        "manager":"Sharma"
+    },
+
+    {
+        "name": "Hemant",
+        "salary": 82000,
+        "department": "Marketing",
+        "city": "Noida",
+        "manager":"Sharma"
+    },
+
+    {
+        "name": "Ananya",
+        "salary": 82000,
+        "department": "HR",
+        "city": "Mumbai",
+        "manager":"Jadons"
+    }
+]

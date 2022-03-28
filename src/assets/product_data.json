@@ -1,0 +1,26 @@
+[
+    {   "name": "Note 10 pro",
+        "brand": "Remdi",
+        "model": "10th",
+        "price": 45000,
+        "availability": 10
+    },
+    {   "name": "Iphone 13 Pro",
+        "brand": "Apple",
+        "model": "13 Pro",
+        "price": 90000,
+        "availability": 2
+    },
+    {   "name": "Samsung Galaxy ",
+        "brand": "Samsung",
+        "model": "S21",
+        "price": 75000,
+        "availability": 3
+    },
+    {   "name": "Ipad Air",
+        "brand": "Apple",
+        "model": "Air",
+        "price": 85000,
+        "availability": 3
+    }
+]    
